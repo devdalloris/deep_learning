@@ -1,0 +1,36 @@
+ID_CRM,Company_A,Match_Score,Company_B,ID_WEB
+1,UzAuto Motors,0.656,Uz-Auto Motors AJ,1001
+2,Artel Electronics,0.504,Artel Elektroniks,1002
+3,Akfa Group,0.65,Akfa Holding,1003
+4,Tashkent IT Park,0.599,IT-Park Toshkent,1004
+5,Korzinka.uz,0.683,Korzinka Supermarket,1005
+6,Hamkorbank,0.823,Hamkor Bank,1006
+7,Kapitalbank,0.763,Kapital Bank ATB,1007
+8,SQB Bank,0.668,Sanoat Qurilish Bank,1008
+12,BMB Holding,0.549,BMB Trade Group,1012
+13,Golden House,0.673,Golden-House,1013
+16,Texnomart,0.638,Texnomart*,1016
+17,Elmakon,0.602,Azo Bank (Apelsin),1038
+18,Ishonch Store,0.588,Kapital Bank ATB,1007
+19,Havas Food,0.603,Havas Market,1019
+20,Makro Supermarket,0.598,Makro,1020
+21,Orient Group,0.613,Orient Group Holding,1021
+23,Navoiy MMK,0.518,Ishonch Do'konlari,1018
+24,Olmaliq MMK,0.547,NMMC (Navoiy),1023
+25,Uzbekneftegaz,0.557,UNG - Uzbekneftegaz,1025
+26,Uzbekistan Airways,0.569,Hamkor Bank,1006
+27,Uzbekistan Railways,0.567,Azo Bank (Apelsin),1038
+28,Agromir Group,0.567,Azo Bank (Apelsin),1038
+31,Hilol Nashr,0.612,Hilol Nashriyoti,1031
+33,Olcha.uz,0.687,Olcha uz,1033
+35,Uzum Market,0.691,Uzum,1035
+36,Payme,0.601,Hamkor Bank,1006
+37,Click.uz,0.586,Click,1037
+38,Apelsin (Azo),0.864,Azo Bank (Apelsin),1038
+39,Yandex Go Uzbekistan,0.521,Yandex Taxi,1039
+43,Les Ailes,0.525,Artel Elektroniks,1002
+46,Evos,0.595,Hamkor Bank,1006
+47,Oqtepa Lavash,0.627,Sanoat Qurilish Bank,1008
+48,FeedUp,0.616,Feed Up,1048
+49,Street 77,0.591,Street-77,1049
+50,Yapona Mama,0.523,Yapona-Mama,1050
